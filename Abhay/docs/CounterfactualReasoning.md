@@ -19,7 +19,7 @@ In other words, we preserve the **$U_Y$** (in other words, we abduct the noise).
 ### Analogy
 
 The counterfactual query asks:  
-*"What if you had studied for 5 hours instead, but kept your specific luck ($U_Y = 1$)?"*
+"What if you had studied for 5 hours instead, but kept your specific luck ($U_Y = 1$)?"
 
 ---
 

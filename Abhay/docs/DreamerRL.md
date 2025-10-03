@@ -1,5 +1,7 @@
 # Dreamer RL
 
+[Paper Link](https://arxiv.org/abs/1912.01603)
+
 ## Two Models
 1. **RSSM** – Encodes and understands the environment  
 2. **Actor-Critic** – Chooses actions and evaluates them

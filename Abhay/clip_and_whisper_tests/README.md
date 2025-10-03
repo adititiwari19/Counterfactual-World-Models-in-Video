@@ -1,0 +1,1 @@
+Run `clip_test.py` and `whisper_test.py` separately. These are a demo of Clip and Whisper.

@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+openai-whisper
+open_clip_torch
+ffmpeg-python
+tqdm
+numpy
+opencv-python
+transformers
+hf-xet
+matplotlib

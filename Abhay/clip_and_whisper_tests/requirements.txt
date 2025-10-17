@@ -1,0 +1,9 @@
+--index-url https://download.pytorch.org/whl/cu128
+torch==2.8.0+cu128
+torchvision
+torchaudio
+openai-whisper
+open_clip_torch
+ffmpeg-python
+tqdm
+numpy

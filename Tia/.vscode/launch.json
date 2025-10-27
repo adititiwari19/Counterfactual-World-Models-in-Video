@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Starter Experiment",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/run_experiment.py",
+      "args": [
+        "--video", "data/input/sample.mp4",
+        "--keyword", "hammer"
+      ]
+
+      
+      
+    }
+    
+  ]
+}
+

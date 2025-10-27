@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+data/outputs/
+*.png
+*.jpg
+*.jpeg
+*.mov
+*.mp4
+.DS_Store
+Thumbs.db

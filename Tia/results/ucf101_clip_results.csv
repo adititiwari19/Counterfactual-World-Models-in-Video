@@ -1,0 +1,101 @@
+video_id,variant,caption,top_frame_idx,max_similarity,flip_vs_factual
+v_BalanceBeam_g02_c03,factual,a video of balancebeam,0,0.3003554344177246,NA
+v_BalanceBeam_g02_c03,counterfactual,a person does not video of balancebeam,1,0.2942773103713989,True
+v_BalanceBeam_g24_c03,factual,a video of balancebeam,3,0.28787893056869507,NA
+v_BalanceBeam_g24_c03,counterfactual,a person does not video of balancebeam,0,0.2823749780654907,True
+v_BalanceBeam_g12_c04,factual,a video of balancebeam,3,0.28445965051651,NA
+v_BalanceBeam_g12_c04,counterfactual,a person does not video of balancebeam,1,0.2806224822998047,True
+v_BalanceBeam_g03_c01,factual,a video of balancebeam,0,0.3163967430591583,NA
+v_BalanceBeam_g03_c01,counterfactual,a person does not video of balancebeam,2,0.29811525344848633,True
+v_BalanceBeam_g25_c01,factual,a video of balancebeam,2,0.31931132078170776,NA
+v_BalanceBeam_g25_c01,counterfactual,a person does not video of balancebeam,2,0.29764023423194885,False
+v_BalanceBeam_g03_c03,factual,a video of balancebeam,0,0.30780595541000366,NA
+v_BalanceBeam_g03_c03,counterfactual,a person does not video of balancebeam,1,0.2954743504524231,True
+v_BalanceBeam_g10_c04,factual,a video of balancebeam,1,0.3107188642024994,NA
+v_BalanceBeam_g10_c04,counterfactual,a person does not video of balancebeam,1,0.2884466052055359,False
+v_BalanceBeam_g08_c02,factual,a video of balancebeam,1,0.2881295382976532,NA
+v_BalanceBeam_g08_c02,counterfactual,a person does not video of balancebeam,1,0.28116825222969055,False
+v_BalanceBeam_g18_c03,factual,a video of balancebeam,4,0.31618040800094604,NA
+v_BalanceBeam_g18_c03,counterfactual,a person does not video of balancebeam,4,0.2951960563659668,False
+v_BalanceBeam_g01_c03,factual,a video of balancebeam,1,0.31363552808761597,NA
+v_BalanceBeam_g01_c03,counterfactual,a person does not video of balancebeam,4,0.29152148962020874,True
+v_BalanceBeam_g10_c02,factual,a video of balancebeam,0,0.297309547662735,NA
+v_BalanceBeam_g10_c02,counterfactual,a person does not video of balancebeam,1,0.28364381194114685,True
+v_BalanceBeam_g19_c01,factual,a video of balancebeam,3,0.32322534918785095,NA
+v_BalanceBeam_g19_c01,counterfactual,a person does not video of balancebeam,3,0.2974966764450073,False
+v_BalanceBeam_g08_c04,factual,a video of balancebeam,2,0.30445346236228943,NA
+v_BalanceBeam_g08_c04,counterfactual,a person does not video of balancebeam,1,0.29316601157188416,True
+v_BalanceBeam_g09_c02,factual,a video of balancebeam,3,0.2954699993133545,NA
+v_BalanceBeam_g09_c02,counterfactual,a person does not video of balancebeam,1,0.28373438119888306,True
+v_BalanceBeam_g19_c03,factual,a video of balancebeam,0,0.3449431359767914,NA
+v_BalanceBeam_g19_c03,counterfactual,a person does not video of balancebeam,0,0.30720412731170654,False
+v_BalanceBeam_g05_c01,factual,a video of balancebeam,0,0.3033257722854614,NA
+v_BalanceBeam_g05_c01,counterfactual,a person does not video of balancebeam,0,0.28656911849975586,False
+v_BalanceBeam_g15_c03,factual,a video of balancebeam,4,0.30537083745002747,NA
+v_BalanceBeam_g15_c03,counterfactual,a person does not video of balancebeam,4,0.2838040888309479,False
+v_BalanceBeam_g05_c03,factual,a video of balancebeam,4,0.2955164313316345,NA
+v_BalanceBeam_g05_c03,counterfactual,a person does not video of balancebeam,4,0.2803710401058197,False
+v_BalanceBeam_g04_c03,factual,a video of balancebeam,0,0.30704939365386963,NA
+v_BalanceBeam_g04_c03,counterfactual,a person does not video of balancebeam,1,0.28150832653045654,True
+v_BalanceBeam_g14_c03,factual,a video of balancebeam,5,0.2883436381816864,NA
+v_BalanceBeam_g14_c03,counterfactual,a person does not video of balancebeam,5,0.2722069025039673,False
+v_BalanceBeam_g23_c04,factual,a video of balancebeam,3,0.3101792335510254,NA
+v_BalanceBeam_g23_c04,counterfactual,a person does not video of balancebeam,0,0.298941433429718,True
+v_BalanceBeam_g04_c01,factual,a video of balancebeam,0,0.29796290397644043,NA
+v_BalanceBeam_g04_c01,counterfactual,a person does not video of balancebeam,0,0.2801249623298645,False
+v_BalanceBeam_g14_c01,factual,a video of balancebeam,2,0.30822253227233887,NA
+v_BalanceBeam_g14_c01,counterfactual,a person does not video of balancebeam,2,0.29556894302368164,False
+v_BalanceBeam_g06_c03,factual,a video of balancebeam,0,0.26817643642425537,NA
+v_BalanceBeam_g06_c03,counterfactual,a person does not video of balancebeam,0,0.23970383405685425,False
+v_BalanceBeam_g21_c05,factual,a video of balancebeam,3,0.285945326089859,NA
+v_BalanceBeam_g21_c05,counterfactual,a person does not video of balancebeam,3,0.2711382508277893,False
+v_BalanceBeam_g06_c01,factual,a video of balancebeam,1,0.2921436131000519,NA
+v_BalanceBeam_g06_c01,counterfactual,a person does not video of balancebeam,1,0.27162906527519226,False
+v_BalanceBeam_g06_c05,factual,a video of balancebeam,2,0.2949948310852051,NA
+v_BalanceBeam_g06_c05,counterfactual,a person does not video of balancebeam,1,0.27622246742248535,True
+v_BalanceBeam_g21_c03,factual,a video of balancebeam,4,0.2899572253227234,NA
+v_BalanceBeam_g21_c03,counterfactual,a person does not video of balancebeam,3,0.2817475497722626,True
+v_BalanceBeam_g17_c01,factual,a video of balancebeam,0,0.3110312223434448,NA
+v_BalanceBeam_g17_c01,counterfactual,a person does not video of balancebeam,0,0.293517529964447,False
+v_BalanceBeam_g07_c02,factual,a video of balancebeam,0,0.30168864130973816,NA
+v_BalanceBeam_g07_c02,counterfactual,a person does not video of balancebeam,3,0.2886722981929779,True
+v_BaseballPitch_g19_c05,factual,a video of baseballpitch,3,0.2979670763015747,NA
+v_BaseballPitch_g19_c05,counterfactual,a person does not video of baseballpitch,3,0.28486746549606323,False
+v_BaseballPitch_g08_c01,factual,a video of baseballpitch,1,0.31155067682266235,NA
+v_BaseballPitch_g08_c01,counterfactual,a person does not video of baseballpitch,0,0.2851959764957428,True
+v_BaseballPitch_g01_c02,factual,a video of baseballpitch,0,0.28705358505249023,NA
+v_BaseballPitch_g01_c02,counterfactual,a person does not video of baseballpitch,2,0.2759471833705902,True
+v_BaseballPitch_g10_c03,factual,a video of baseballpitch,3,0.3265479505062103,NA
+v_BaseballPitch_g10_c03,counterfactual,a person does not video of baseballpitch,0,0.29730507731437683,True
+v_BaseballPitch_g08_c05,factual,a video of baseballpitch,1,0.3158198893070221,NA
+v_BaseballPitch_g08_c05,counterfactual,a person does not video of baseballpitch,1,0.2870185077190399,False
+v_BaseballPitch_g18_c04,factual,a video of baseballpitch,0,0.2967599034309387,NA
+v_BaseballPitch_g18_c04,counterfactual,a person does not video of baseballpitch,0,0.2813350558280945,False
+v_BaseballPitch_g18_c06,factual,a video of baseballpitch,2,0.2857339382171631,NA
+v_BaseballPitch_g18_c06,counterfactual,a person does not video of baseballpitch,2,0.2726063132286072,False
+v_BaseballPitch_g19_c03,factual,a video of baseballpitch,4,0.3079201281070709,NA
+v_BaseballPitch_g19_c03,counterfactual,a person does not video of baseballpitch,4,0.28083211183547974,False
+v_BaseballPitch_g08_c07,factual,a video of baseballpitch,0,0.3099428415298462,NA
+v_BaseballPitch_g08_c07,counterfactual,a person does not video of baseballpitch,0,0.29030418395996094,False
+v_BaseballPitch_g01_c04,factual,a video of baseballpitch,2,0.28111031651496887,NA
+v_BaseballPitch_g01_c04,counterfactual,a person does not video of baseballpitch,1,0.2766549289226532,True
+v_BaseballPitch_g02_c02,factual,a video of baseballpitch,0,0.28922921419143677,NA
+v_BaseballPitch_g02_c02,counterfactual,a person does not video of baseballpitch,0,0.27369940280914307,False
+v_BaseballPitch_g13_c07,factual,a video of baseballpitch,1,0.28254616260528564,NA
+v_BaseballPitch_g13_c07,counterfactual,a person does not video of baseballpitch,1,0.2786100506782532,False
+v_BaseballPitch_g13_c05,factual,a video of baseballpitch,0,0.28463464975357056,NA
+v_BaseballPitch_g13_c05,counterfactual,a person does not video of baseballpitch,0,0.28205472230911255,False
+v_BaseballPitch_g03_c04,factual,a video of baseballpitch,1,0.28854385018348694,NA
+v_BaseballPitch_g03_c04,counterfactual,a person does not video of baseballpitch,1,0.2731509804725647,False
+v_BaseballPitch_g02_c04,factual,a video of baseballpitch,2,0.2890493869781494,NA
+v_BaseballPitch_g02_c04,counterfactual,a person does not video of baseballpitch,0,0.27450037002563477,True
+v_BaseballPitch_g13_c03,factual,a video of baseballpitch,4,0.28744974732398987,NA
+v_BaseballPitch_g13_c03,counterfactual,a person does not video of baseballpitch,4,0.2824926972389221,False
+v_BaseballPitch_g25_c01,factual,a video of baseballpitch,1,0.3125954568386078,NA
+v_BaseballPitch_g25_c01,counterfactual,a person does not video of baseballpitch,1,0.2821156084537506,False
+v_BaseballPitch_g03_c02,factual,a video of baseballpitch,1,0.2890101671218872,NA
+v_BaseballPitch_g03_c02,counterfactual,a person does not video of baseballpitch,2,0.28148382902145386,True
+v_BaseballPitch_g16_c03,factual,a video of baseballpitch,3,0.3032161593437195,NA
+v_BaseballPitch_g16_c03,counterfactual,a person does not video of baseballpitch,1,0.2780131697654724,True
+v_BaseballPitch_g17_c05,factual,a video of baseballpitch,2,0.2988026738166809,NA
+v_BaseballPitch_g17_c05,counterfactual,a person does not video of baseballpitch,1,0.28459787368774414,True

@@ -81,6 +81,7 @@ def generate_raw_embeddings(model, preprocess, images, step, mean_pool):
         image_embs = model.encode_image(images)
         return image_embs
 
+
 def generate_temporal_embeddings(model, preprocess, frames, step, ema_factor):
     with torch.no_grad():
         embeddings = generate_raw_embeddings(model, preprocess, frames, step, mean_pool=True)
@@ -109,8 +110,12 @@ def generate_temporal_embeddings_from_folder(folder: Path, ema_factor: float) ->
     return emb_mmap
 
 
-def generate_caption_embeddings(folder: Path, text):
-    text = ds[]
+def generate_caption_embeddings(folder: Path, text: str, tokenizer: open_clip.tokenizer):
+    emb = tokenizer.tokenize(text)
+    emb_mmap = np.memmap("text_embeddings.npy", dtype=emb.dtype, shape=emb.shape, mode="w+")
+    emb_mmap[:] = emb[:]
+
+    return emb_mmap
 
 
 def main() -> None:
@@ -119,8 +124,8 @@ def main() -> None:
     ds = unpack_dataset(video_folder_name)
     save_videos_frames(video_folder_name, output_folder_name)
     generate_temporal_embeddings_from_folder(Path("output/video0/"), 0.95)
-    generate_caption_embeddings("video0/", ds[0]["caption"])
     tokenizer = open_clip.get_tokenizer('ViT-B-32')
+    generate_caption_embeddings("video0/", ds[0]["caption"], tokenizer)
 
 
 if __name__ == "__main__":
